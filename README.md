@@ -1,3 +1,5 @@
+![Cover Image]([your-image-url](https://raw.githubusercontent.com/coderomayer/coderomayer/main/GitHub%20cover.png))
+
 # Hello, World! 👋
 
 I'm [Your Name], a passionate developer with experience in:
