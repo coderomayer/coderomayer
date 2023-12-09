@@ -1,4 +1,4 @@
-![Cover Image]([your-image-url](https://raw.githubusercontent.com/coderomayer/coderomayer/main/GitHub%20cover.png))
+![Cover Image](https://raw.githubusercontent.com/coderomayer/coderomayer/main/GitHub%20cover.png)
 
 # Hello, World! 👋
 
